@@ -10,7 +10,7 @@ so, before you fire up the scripts, you just need to make sure python is install
 ---
 
 # modules to download
-# If you're having trouble using PIP, I highly recommend that you follow this guy's steps (he saved me many hours): https://www.youtube.com/watch?v=nj8gVMH6yR8&t=62s
+*If you're having trouble using PIP, I highly recommend that you follow this guy's steps (he saved me many hours):* https://www.youtube.com/watch?v=nj8gVMH6yR8&t=62s
 
 first, install the core python modules:
 
