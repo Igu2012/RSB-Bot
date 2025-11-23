@@ -2,7 +2,7 @@ RSB bot
 
 yo, igu here, just popping in to say a quick thanks:
 
-i give huge credit to r2 (the original genius behind this code).
+i give huge credit to R2 (the original genius behind this code).
 i basically just took his work, fixed a few things, and made it way more user-customizable.
 
 so, before you fire up the scripts, you just need to make sure python is installed and you run these commands in your terminal:
