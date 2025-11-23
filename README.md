@@ -18,7 +18,7 @@ pip install pynput
 
 pip install keyboard
 
-pip install speechrecognition
+pip install SpeechRecognition
 
 next up is pyaudio. this one needs system stuff, so hit it with the command for your specific operating system:
 
