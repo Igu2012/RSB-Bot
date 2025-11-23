@@ -14,7 +14,9 @@ so, before you fire up the scripts, you just need to make sure python is install
 first, install the core python modules:
 
 pip install pynput
+
 pip install keyboard
+
 pip install speechrecognition
 
 next up is pyaudio. this one needs system stuff, so hit it with the command for your specific operating system:
